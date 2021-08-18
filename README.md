@@ -1,16 +1,6 @@
 # Simple Image Gallery
 
-This is a simple Image Gallery Android application written in Kotlin by **Dody Prasetya**. The purpose of this app is only for documentation of my blog post tutorial [**Android Image Gallery Using Kotlin Tutorial**](https://thesimplycoder.com/137/android-image-gallery-using-kotlin-tutorial/).
-
---------------------
-### What will you learn ###
-
-* Using RecyclerView with a grid layout
-* Displaying images in list using Glide image library
-* Handling user’s tapping the image to display it in fullscreen
-* Displaying full screen images with swipe to navigate to next and previous image
-* Building a simple Android image gallery using Kotlin programming language
-
+This is a simple Image Gallery Android application written in Kotlin. I took help from a tutorial to understand this. Will be making one in React too.
 --------------------
 ### Development Tools ###
 
